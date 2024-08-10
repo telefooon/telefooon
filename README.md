@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @telefooon
+- 👋 Hi, I’m Faaeiz Khan
 - 👀 I’m interested in working with experienced people and want to take on the responsibility of having a constant growth curve
-- 🌱 I’m currently learning JAVA, started out learning HTML.
+- 🌱 I’m currently learning JAVA, started out learning as a aspiring java developer.
 - 💞️ I’m looking to collaborate on mini projects to have greater insights, to be able to become a professional coder
 - 📫 How to reach E-mail-IT22022@glbitm.ac.in // DISCORD-telefoon#1076
 
